@@ -20,15 +20,28 @@ strict sequencing.
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Download](#download)
 - [Milestones](#milestones)
 - [Components](#components)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-Currently, there are no specific installation instructions available.
+## Download
+
+### Maven
+```
+<dependency>
+    <groupId>io.github.thealxan</groupId>
+    <artifactId>NoteefyWeb</artifactId>
+    <version>0.1</version>
+</dependency>
+```
+
+### Gradle
+```
+implementation group: 'io.github.thealxan', name: 'NoteefyWeb', version: '0.1'
+```
 
 ## Milestones
 
